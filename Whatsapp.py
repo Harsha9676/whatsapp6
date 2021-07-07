@@ -22,7 +22,7 @@ message_text = 'Hi this text is sent through python programm test case please ig
 
 no_of_message = 1
 
-moblie_no_list = [919000503460, 917893989484]
+moblie_no_list = []
 
 
 def element_presence(by, xpath, time):
